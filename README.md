@@ -1,5 +1,6 @@
 # React + Vite
-
+It is a weather app React JS project where we have to enter the name of the city,state or country.
+It gives the accurate weather data like Temprrature,Weather condition,Humidity and Wind Speed according to the city and it gets from OpenWeatherMap API.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
